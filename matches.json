@@ -1,6 +1,6 @@
 [
   {
-    *descricao*: *Eliminatórias Copa 2022*,
+     **descriçao*: *Eliminatórias Copa 2022*,
     *local*: {
       *nome*: *maracanã*,
       *imagem*: *TODO*,
@@ -11,7 +11,7 @@
      *imagem*: *TODO*
   },
     *visitante*: {
-      *nome*: *Argentina*,
+      **nome*: *Argentina*,
      *força*: 5,
      *imagem*: *TODO*
   },   
